@@ -39,4 +39,11 @@ buat EERD
 integrasi vendor, API
 
 (good weeb to check: anime.js)
+
+perlu biar bagus untuk alur cerita
+empati(buat latar agar pengguna bisa ber empati pada permainan)
+define(perbaiki dan perbagus)
+ideate(perluas idenya)
+prototype(buat prototype nya)
+testing(test aja dulu)
 >>>>>>> d6fec4b4eece8309deda4db4f18714e4d40def32
