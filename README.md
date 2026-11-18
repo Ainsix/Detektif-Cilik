@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,45 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Detektif-Cilik
+Validasi Domain dan masahal ril
+-cari bukti otentisitas masalah dengan cara:
+1. Wawancara
+2. Kuesioner
+3. Obesrvasi
+(1-3 bisa informal jadi santai aj)
+4. Literatur(artikel, berita)
+
+-bandingkan 2 sekolah.
+(sekolah tidak ditemukan untuk tahap 1-3, cari cara lain dulu)
+
+cek solusi umum atau yang sudah ada
+-cek apa aja game yang ada dan kesamaannya:
+
+-Membandingkan minimal 5 solusi
+
+(cek di sci-hub!!!)
+--------------
+Pemetaan Masalah-Solusi
+beri label dan alasan logis pada solusi dan masalah agar bisa mengkategorikan dan membuat penyelesaian lebih tertata
+
+contoh masalah:
+materi tata surya
+kategori: asbtract(sulit dipahamin)
+Jawab: buat game, bisa jadi salah-bisa jadi benar, asiknya dapat tapi apakah abstraksi bisa terselesaikan-
+masih tidak diketahui
+
+----
+use case, alur fitur dan logika bisnis
+buat spesifikasi aktor dan use case
+
+SaaS(Software as A Service)
+inti: Buat Aplikasi yang Bisa dijual(PROFIT!!!! CAIR BOSQUE)
+Jawab: bisa pake ads, subscribtion dan lain sebagainya
+
+buat EERD
+integrasi vendor, API
+
+(good weeb to check: anime.js)
+>>>>>>> d6fec4b4eece8309deda4db4f18714e4d40def32
