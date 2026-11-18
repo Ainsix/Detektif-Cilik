@@ -46,4 +46,5 @@ define(perbaiki dan perbagus)
 ideate(perluas idenya)
 prototype(buat prototype nya)
 testing(test aja dulu)
+berarti di awal buat suatu vid yang mirip dengan vid emosional untuk pengiklanan
 >>>>>>> d6fec4b4eece8309deda4db4f18714e4d40def32
